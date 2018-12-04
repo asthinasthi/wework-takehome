@@ -5,12 +5,9 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 import java.util.Queue;
-import java.util.logging.FileHandler;
-
 import org.apache.log4j.Logger;
 import org.jsoup.*;
 import org.jsoup.nodes.Document;
-import sun.rmi.runtime.Log;
 
 public class Worker extends Thread {
 
@@ -26,7 +23,7 @@ public class Worker extends Thread {
     }
 
     public void run() {
-        while (!unProcessedQueue.isEmpty()){
+        while (!unProcessedQueue.isEmpty()){ //Keep running until queue is empty
             this.webPage = unProcessedQueue.poll();
             this.webPage.incrementSession();
             this.webPage.setExecutedBy(Thread.currentThread().getName());
@@ -40,20 +37,19 @@ public class Worker extends Thread {
     }
 
     private void findSearchTerms(){
-        //open a webpage
         Document doc = null;
         try {
             String formattedUrl = "https://www." + webPage.getUrl().replaceAll("\"", "");
             doc = Jsoup.connect(formattedUrl).get();
             //search term
-            for(String searchTerm: this.searchTerms){
+            for(String searchTerm: this.searchTerms){ //if contains mark true
                 this.webPage.getSearchTermMap().put(searchTerm, new Boolean(doc.text().contains(searchTerm)).toString());
             }
         } catch (IOException ioe){
             Logger.getLogger(Thread.currentThread().getName()).error("Error accessing the Web Page", ioe);
             this.webPage.setMsg("Error accessing the Web Page");
             if(this.webPage.getSessions() < MAX_SESSIONS){
-                unProcessedQueue.add(this.webPage); // add back for reattempts
+                unProcessedQueue.add(this.webPage); // add back for reattempts if any
             }
         }
     }

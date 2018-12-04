@@ -11,6 +11,10 @@ import org.apache.log4j.Logger;
 public class Util {
     private static Logger logger = Logger.getLogger("Util");
 
+    /*
+    * Read File from remote URL
+    * Load into the unProcessedQueue
+    * */
     public void readFile(URL inputFileUrl, Queue<WebPage> unProcessedQueue){
         logger.info("Reading file ...");
         FileReader fileReader = null;
@@ -24,11 +28,10 @@ public class Util {
                     line = scanner.nextLine();
                     String[] splits = line.split(",");
                     WebPage webPage = new WebPage(Integer.parseInt(splits[0]), splits[1]);
-                    unProcessedQueue.add(webPage);
+                    unProcessedQueue.add(webPage);// Load to a queue
                 }
             }
         } catch (IOException ioe){
-//            logger.log(Level.SEVERE, "Error accessing the file stream", ioe);
             logger.error(ioe);
         }
     }
