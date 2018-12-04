@@ -1,0 +1,5651 @@
+{
+  "url": "\"google.com/\"",
+  "rank": 3,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"wikipedia.org/\"",
+  "rank": 8,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 7"
+},{
+  "url": "\"adobe.com/\"",
+  "rank": 6,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 5"
+},{
+  "url": "\"myspace.com/\"",
+  "rank": 18,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 17",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"apple.com/\"",
+  "rank": 17,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"tumblr.com/\"",
+  "rank": 15,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 14"
+},{
+  "url": "\"linkedin.com/\"",
+  "rank": 9,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"youtu.be/\"",
+  "rank": 21,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 2",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"pinterest.com/\"",
+  "rank": 14,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"microsoft.com/\"",
+  "rank": 20,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 19"
+},{
+  "url": "\"wordpress.com/\"",
+  "rank": 10,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 9"
+},{
+  "url": "\"twitter.com/\"",
+  "rank": 2,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 1"
+},{
+  "url": "\"w3.org/\"",
+  "rank": 16,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"stumbleupon.com/\"",
+  "rank": 25,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"vimeo.com/\"",
+  "rank": 19,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 18"
+},{
+  "url": "\"flickr.com/\"",
+  "rank": 13,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 12"
+},{
+  "url": "\"amazon.com/\"",
+  "rank": 12,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 11"
+},{
+  "url": "\"addthis.com/\"",
+  "rank": 26,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 14"
+},{
+  "url": "\"facebook.com/\"",
+  "rank": 1,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"wordpress.org/\"",
+  "rank": 5,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"digg.com/\"",
+  "rank": 23,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 5"
+},{
+  "url": "\"nytimes.com/\"",
+  "rank": 31,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 9"
+},{
+  "url": "\"weebly.com/\"",
+  "rank": 33,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"baidu.com/\"",
+  "rank": 24,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 17"
+},{
+  "url": "\"yahoo.com/\"",
+  "rank": 11,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"youtube.com/\"",
+  "rank": 4,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"qq.com/\"",
+  "rank": 22,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 7"
+},{
+  "url": "\"msn.com/\"",
+  "rank": 36,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 12"
+},{
+  "url": "\"blogspot.com/\"",
+  "rank": 7,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 6"
+},{
+  "url": "\"gov.uk/\"",
+  "rank": 40,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"instagram.com/\"",
+  "rank": 39,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"t.co/\"",
+  "rank": 46,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 3",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"miibeian.gov.cn/\"",
+  "rank": 29,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 13",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"macromedia.com/\"",
+  "rank": 37,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 11"
+},{
+  "url": "\"cnn.com/\"",
+  "rank": 43,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"blogger.com/\"",
+  "rank": 35,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 18"
+},{
+  "url": "\"go.com/\"",
+  "rank": 52,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 3",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"google.de/\"",
+  "rank": 45,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"livejournal.com/\"",
+  "rank": 47,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 7"
+},{
+  "url": "\"statcounter.com/\"",
+  "rank": 27,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"goo.gl/\"",
+  "rank": 38,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 14",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"webs.com/\"",
+  "rank": 44,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 17"
+},{
+  "url": "\"fc2.com/\"",
+  "rank": 56,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 18",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"feedburner.com/\"",
+  "rank": 28,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"jimdo.com/\"",
+  "rank": 50,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"google.co.jp/\"",
+  "rank": 55,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"typepad.com/\"",
+  "rank": 60,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"tinyurl.com/\"",
+  "rank": 53,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"reddit.com/\"",
+  "rank": 32,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 1"
+},{
+  "url": "\"hugedomains.com/\"",
+  "rank": 64,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"joomla.org/\"",
+  "rank": 58,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"theguardian.com/\"",
+  "rank": 66,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"sourceforge.net/\"",
+  "rank": 51,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"bbc.co.uk/\"",
+  "rank": 34,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"about.com/\"",
+  "rank": 65,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"huffingtonpost.com/\"",
+  "rank": 69,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 1"
+},{
+  "url": "\"imdb.com/\"",
+  "rank": 48,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 12"
+},{
+  "url": "\"google.co.uk/\"",
+  "rank": 70,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"mozilla.org/\"",
+  "rank": 71,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"networkadvertising.org/\"",
+  "rank": 61,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 14"
+},{
+  "url": "\"creativecommons.org/\"",
+  "rank": 59,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 7"
+},{
+  "url": "\"wsj.com/\"",
+  "rank": 76,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 1"
+},{
+  "url": "\"ebay.com/\"",
+  "rank": 74,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"yandex.ru/\"",
+  "rank": 42,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 9"
+},{
+  "url": "\"nih.gov/\"",
+  "rank": 68,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"bing.com/\"",
+  "rank": 79,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"aol.com/\"",
+  "rank": 73,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"tripod.com/\"",
+  "rank": 82,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 1",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"ameblo.jp/\"",
+  "rank": 75,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 4",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"europa.eu/\"",
+  "rank": 77,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 12",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"geocities.com/\"",
+  "rank": 86,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 10",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"guardian.co.uk/\"",
+  "rank": 81,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 7"
+},{
+  "url": "\"sina.com.cn/\"",
+  "rank": 63,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 18"
+},{
+  "url": "\"yahoo.co.jp/\"",
+  "rank": 67,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"51.la/\"",
+  "rank": 72,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"godaddy.com/\"",
+  "rank": 83,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"gnu.org/\"",
+  "rank": 85,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"mapquest.com/\"",
+  "rank": 89,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"reuters.com/\"",
+  "rank": 92,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 7"
+},{
+  "url": "\"free.fr/\"",
+  "rank": 57,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"taobao.com/\"",
+  "rank": 78,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"forbes.com/\"",
+  "rank": 95,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"photobucket.com/\"",
+  "rank": 94,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"wix.com/\"",
+  "rank": 88,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 1"
+},{
+  "url": "\"usatoday.com/\"",
+  "rank": 102,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"homestead.com/\"",
+  "rank": 91,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"issuu.com/\"",
+  "rank": 84,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 9"
+},{
+  "url": "\"etsy.com/\"",
+  "rank": 98,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"cnet.com/\"",
+  "rank": 104,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 1"
+},{
+  "url": "\"163.com/\"",
+  "rank": 93,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 18"
+},{
+  "url": "\"posterous.com/\"",
+  "rank": 105,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 15",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"clickbank.net/\"",
+  "rank": 96,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"telegraph.co.uk/\"",
+  "rank": 106,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"latimes.com/\"",
+  "rank": 112,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"phpbb.com/\"",
+  "rank": 111,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"google.fr/\"",
+  "rank": 108,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"rambler.ru/\"",
+  "rank": 80,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 14"
+},{
+  "url": "\"archive.org/\"",
+  "rank": 107,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 9"
+},{
+  "url": "\"dailymotion.com/\"",
+  "rank": 100,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"opera.com/\"",
+  "rank": 116,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"technorati.com/\"",
+  "rank": 62,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 17"
+},{
+  "url": "\"amazon.co.uk/\"",
+  "rank": 99,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 7"
+},{
+  "url": "\"constantcontact.com/\"",
+  "rank": 109,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 1"
+},{
+  "url": "\"soundcloud.com/\"",
+  "rank": 101,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"scribd.com/\"",
+  "rank": 119,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"parallels.com/\"",
+  "rank": 121,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 17"
+},{
+  "url": "\"cdc.gov/\"",
+  "rank": 124,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"yelp.com/\"",
+  "rank": 103,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"weibo.com/\"",
+  "rank": 97,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"wikimedia.org/\"",
+  "rank": 126,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 17"
+},{
+  "url": "\"miitbeian.gov.cn/\"",
+  "rank": 117,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 14",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"ning.com/\"",
+  "rank": 122,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 7"
+},{
+  "url": "\"addtoany.com/\"",
+  "rank": 131,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 14"
+},{
+  "url": "\"deviantart.com/\"",
+  "rank": 127,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"amazon.de/\"",
+  "rank": 115,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"sohu.com/\"",
+  "rank": 125,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"e-recht24.de/\"",
+  "rank": 113,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"bbb.org/\"",
+  "rank": 120,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"mit.edu/\"",
+  "rank": 128,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"time.com/\"",
+  "rank": 132,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 7"
+},{
+  "url": "\"google.it/\"",
+  "rank": 133,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 14"
+},{
+  "url": "\"live.com/\"",
+  "rank": 135,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"squidoo.com/\"",
+  "rank": 137,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 10",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"nasa.gov/\"",
+  "rank": 141,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 14"
+},{
+  "url": "\"alibaba.com/\"",
+  "rank": 136,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"npr.org/\"",
+  "rank": 142,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"ca.gov/\"",
+  "rank": 143,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"wired.com/\"",
+  "rank": 145,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"harvard.edu/\"",
+  "rank": 138,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"slideshare.net/\"",
+  "rank": 87,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"gravatar.com/\"",
+  "rank": 139,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"amazonaws.com/\"",
+  "rank": 149,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 4",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"nbcnews.com/\"",
+  "rank": 147,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"sakura.ne.jp/\"",
+  "rank": 129,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"bloomberg.com/\"",
+  "rank": 150,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"eventbrite.com/\"",
+  "rank": 144,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 14"
+},{
+  "url": "\"stanford.edu/\"",
+  "rank": 134,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"imageshack.us/\"",
+  "rank": 153,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"amazon.co.jp/\"",
+  "rank": 146,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"dailymail.co.uk/\"",
+  "rank": 123,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 1"
+},{
+  "url": "\"angelfire.com/\"",
+  "rank": 157,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 2",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"histats.com/\"",
+  "rank": 140,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 7"
+},{
+  "url": "\"blog.com/\"",
+  "rank": 148,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 3",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"phoca.cz/\"",
+  "rank": 110,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 18"
+},{
+  "url": "\"blinklist.com/\"",
+  "rank": 152,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"google.es/\"",
+  "rank": 158,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"a8.net/\"",
+  "rank": 163,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"dedecms.com/\"",
+  "rank": 161,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 2",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"google.ca/\"",
+  "rank": 162,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 7"
+},{
+  "url": "\"ibm.com/\"",
+  "rank": 166,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"weather.com/\"",
+  "rank": 164,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 18"
+},{
+  "url": "\"vk.com/\"",
+  "rank": 54,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 11"
+},{
+  "url": "\"barnesandnoble.com/\"",
+  "rank": 170,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"noaa.gov/\"",
+  "rank": 172,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 11"
+},{
+  "url": "\"kickstarter.com/\"",
+  "rank": 154,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"pbs.org/\"",
+  "rank": 165,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"altervista.org/\"",
+  "rank": 130,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 17"
+},{
+  "url": "\"nifty.com/\"",
+  "rank": 156,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 14"
+},{
+  "url": "\"mozilla.com/\"",
+  "rank": 171,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 18"
+},{
+  "url": "\"prweb.com/\"",
+  "rank": 168,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"eepurl.com/\"",
+  "rank": 179,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 18",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"cbsnews.com/\"",
+  "rank": 176,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"cpanel.net/\"",
+  "rank": 167,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"foxnews.com/\"",
+  "rank": 177,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 17"
+},{
+  "url": "\"over-blog.com/\"",
+  "rank": 160,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 1"
+},{
+  "url": "\"mail.ru/\"",
+  "rank": 49,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 6"
+},{
+  "url": "\"bandcamp.com/\"",
+  "rank": 169,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 7"
+},{
+  "url": "\"hatena.ne.jp/\"",
+  "rank": 155,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"ocn.ne.jp/\"",
+  "rank": 159,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"berkeley.edu/\"",
+  "rank": 181,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 18"
+},{
+  "url": "\"loc.gov/\"",
+  "rank": 185,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 1"
+},{
+  "url": "\"xrea.com/\"",
+  "rank": 175,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"businessweek.com/\"",
+  "rank": 180,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"usda.gov/\"",
+  "rank": 189,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"whitehouse.gov/\"",
+  "rank": 191,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 1"
+},{
+  "url": "\"narod.ru/\"",
+  "rank": 151,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"sfgate.com/\"",
+  "rank": 194,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"goo.ne.jp/\"",
+  "rank": 173,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"yolasite.com/\"",
+  "rank": 186,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 6"
+},{
+  "url": "\"mashable.com/\"",
+  "rank": 188,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"newsvine.com/\"",
+  "rank": 182,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"ted.com/\"",
+  "rank": 193,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"oracle.com/\"",
+  "rank": 198,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"seesaa.net/\"",
+  "rank": 199,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 6",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"examiner.com/\"",
+  "rank": 200,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 0",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"epa.gov/\"",
+  "rank": 196,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"bluehost.com/\"",
+  "rank": 183,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"nps.gov/\"",
+  "rank": 203,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"apache.org/\"",
+  "rank": 187,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 7"
+},{
+  "url": "\"disqus.com/\"",
+  "rank": 204,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 6"
+},{
+  "url": "\"tripadvisor.com/\"",
+  "rank": 192,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"house.gov/\"",
+  "rank": 207,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"boston.com/\"",
+  "rank": 209,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 7"
+},{
+  "url": "\"techcrunch.com/\"",
+  "rank": 210,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 6"
+},{
+  "url": "\"cornell.edu/\"",
+  "rank": 201,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"hp.com/\"",
+  "rank": 202,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"biglobe.ne.jp/\"",
+  "rank": 195,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 1"
+},{
+  "url": "\"mysql.com/\"",
+  "rank": 206,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"sphinn.com/\"",
+  "rank": 208,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"xinhuanet.com/\"",
+  "rank": 219,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 10",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"independent.co.uk/\"",
+  "rank": 217,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 1"
+},{
+  "url": "\"un.org/\"",
+  "rank": 211,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"alexa.com/\"",
+  "rank": 205,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"mediafire.com/\"",
+  "rank": 218,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"vkontakte.ru/\"",
+  "rank": 197,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"google.nl/\"",
+  "rank": 220,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"irs.gov/\"",
+  "rank": 223,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"squarespace.com/\"",
+  "rank": 212,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"wunderground.com/\"",
+  "rank": 225,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"reverbnation.com/\"",
+  "rank": 221,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 1"
+},{
+  "url": "\"bizjournals.com/\"",
+  "rank": 226,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"imgur.com/\"",
+  "rank": 222,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"who.int/\"",
+  "rank": 227,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"cloudflare.com/\"",
+  "rank": 229,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"freewebs.com/\"",
+  "rank": 214,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 6"
+},{
+  "url": "\"cbslocal.com/\"",
+  "rank": 233,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 0",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"senate.gov/\"",
+  "rank": 232,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"people.com.cn/\"",
+  "rank": 230,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 1",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"ycombinator.com/\"",
+  "rank": 234,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"businessinsider.com/\"",
+  "rank": 239,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"ucoz.ru/\"",
+  "rank": 216,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"ustream.tv/\"",
+  "rank": 231,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"drupal.org/\"",
+  "rank": 240,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 15",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"nature.com/\"",
+  "rank": 238,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 1"
+},{
+  "url": "\"ezinearticles.com/\"",
+  "rank": 215,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"last.fm/\"",
+  "rank": 241,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"wikia.com/\"",
+  "rank": 244,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 1"
+},{
+  "url": "\"skype.com/\"",
+  "rank": 243,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"gmpg.org/\"",
+  "rank": 248,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"fda.gov/\"",
+  "rank": 249,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"redcross.org/\"",
+  "rank": 250,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"webmd.com/\"",
+  "rank": 246,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"spiegel.de/\"",
+  "rank": 236,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"about.me/\"",
+  "rank": 245,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"cbc.ca/\"",
+  "rank": 252,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"oaic.gov.au/\"",
+  "rank": 237,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 13",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"privacy.gov.au/\"",
+  "rank": 242,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 10",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"github.com/\"",
+  "rank": 251,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 15"
+},{
+  "url": "\"google.com.br/\"",
+  "rank": 256,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"ifeng.com/\"",
+  "rank": 257,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"jugem.jp/\"",
+  "rank": 254,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 4",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"topsy.com/\"",
+  "rank": 261,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 4",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"icq.com/\"",
+  "rank": 213,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 7"
+},{
+  "url": "\"youku.com/\"",
+  "rank": 247,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 1"
+},{
+  "url": "\"discovery.com/\"",
+  "rank": 260,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"google.cn/\"",
+  "rank": 263,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 7"
+},{
+  "url": "\"umich.edu/\"",
+  "rank": 253,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"wiley.com/\"",
+  "rank": 259,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"webnode.com/\"",
+  "rank": 224,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"surveymonkey.com/\"",
+  "rank": 264,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 1"
+},{
+  "url": "\"paypal.com/\"",
+  "rank": 262,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"prnewswire.com/\"",
+  "rank": 269,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"google.pl/\"",
+  "rank": 268,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"opensource.org/\"",
+  "rank": 235,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 6"
+},{
+  "url": "\"behance.net/\"",
+  "rank": 272,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"dropbox.com/\"",
+  "rank": 266,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 7"
+},{
+  "url": "\"ft.com/\"",
+  "rank": 270,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 1"
+},{
+  "url": "\"moonfruit.com/\"",
+  "rank": 265,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"auda.org.au/\"",
+  "rank": 275,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"marketwatch.com/\"",
+  "rank": 276,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 7"
+},{
+  "url": "\"networksolutions.com/\"",
+  "rank": 278,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 10",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"soup.io/\"",
+  "rank": 228,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"state.gov/\"",
+  "rank": 279,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"goodreads.com/\"",
+  "rank": 273,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"ftc.gov/\"",
+  "rank": 282,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"shinystat.com/\"",
+  "rank": 255,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"census.gov/\"",
+  "rank": 283,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"zdnet.com/\"",
+  "rank": 287,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"nydailynews.com/\"",
+  "rank": 286,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"economist.com/\"",
+  "rank": 285,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"ed.gov/\"",
+  "rank": 277,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 1"
+},{
+  "url": "\"ow.ly/\"",
+  "rank": 289,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 2",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"exblog.jp/\"",
+  "rank": 267,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"theatlantic.com/\"",
+  "rank": 293,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"chicagotribune.com/\"",
+  "rank": 292,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"google.com.au/\"",
+  "rank": 294,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"rakuten.co.jp/\"",
+  "rank": 114,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"1688.com/\"",
+  "rank": 295,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"quantcast.com/\"",
+  "rank": 284,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"list-manage.com/\"",
+  "rank": 297,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 16",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"netscape.com/\"",
+  "rank": 291,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 1"
+},{
+  "url": "\"friendfeed.com/\"",
+  "rank": 300,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 16",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"cafepress.com/\"",
+  "rank": 288,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"netvibes.com/\"",
+  "rank": 274,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 6"
+},{
+  "url": "\"meetup.com/\"",
+  "rank": 290,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"upenn.edu/\"",
+  "rank": 303,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"liveinternet.ru/\"",
+  "rank": 281,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"uol.com.br/\"",
+  "rank": 271,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"diigo.com/\"",
+  "rank": 305,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"patch.com/\"",
+  "rank": 302,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"washington.edu/\"",
+  "rank": 308,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 4",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"nhs.uk/\"",
+  "rank": 310,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"abc.net.au/\"",
+  "rank": 311,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"elegantthemes.com/\"",
+  "rank": 312,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"slashdot.org/\"",
+  "rank": 307,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"cdbaby.com/\"",
+  "rank": 299,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"utexas.edu/\"",
+  "rank": 313,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"yale.edu/\"",
+  "rank": 314,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"bigcartel.com/\"",
+  "rank": 316,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"columbia.edu/\"",
+  "rank": 309,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"marriott.com/\"",
+  "rank": 315,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"usgs.gov/\"",
+  "rank": 318,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"skyrock.com/\"",
+  "rank": 296,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"ucla.edu/\"",
+  "rank": 317,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"jigsy.com/\"",
+  "rank": 319,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"bloglines.com/\"",
+  "rank": 325,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 10",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"purevolume.com/\"",
+  "rank": 323,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"slate.com/\"",
+  "rank": 322,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"engadget.com/\"",
+  "rank": 304,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 6"
+},{
+  "url": "\"howstuffworks.com/\"",
+  "rank": 329,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 6"
+},{
+  "url": "\"com.com/\"",
+  "rank": 306,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"hexun.com/\"",
+  "rank": 320,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 3",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"hubpages.com/\"",
+  "rank": 321,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"umn.edu/\"",
+  "rank": 324,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"usnews.com/\"",
+  "rank": 333,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 13",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"jiathis.com/\"",
+  "rank": 332,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 3",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"so-net.ne.jp/\"",
+  "rank": 326,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"wikispaces.com/\"",
+  "rank": 327,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"desdev.cn/\"",
+  "rank": 336,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 3",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"cargocollective.com/\"",
+  "rank": 328,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"flavors.me/\"",
+  "rank": 335,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"hc360.com/\"",
+  "rank": 337,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"usa.gov/\"",
+  "rank": 338,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"xing.com/\"",
+  "rank": 334,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"example.com/\"",
+  "rank": 344,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"lycos.com/\"",
+  "rank": 340,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"state.tx.us/\"",
+  "rank": 343,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 0",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"infoseek.co.jp/\"",
+  "rank": 331,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"plala.or.jp/\"",
+  "rank": 330,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 6"
+},{
+  "url": "\"thetimes.co.uk/\"",
+  "rank": 342,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"biblegateway.com/\"",
+  "rank": 346,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"shareasale.com/\"",
+  "rank": 345,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"businesswire.com/\"",
+  "rank": 350,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"samsung.com/\"",
+  "rank": 349,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 6"
+},{
+  "url": "\"wisc.edu/\"",
+  "rank": 341,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"yellowbook.com/\"",
+  "rank": 348,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"dion.ne.jp/\"",
+  "rank": 352,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 4",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"storify.com/\"",
+  "rank": 356,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 8",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"g.co/\"",
+  "rank": 351,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"edublogs.org/\"",
+  "rank": 339,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"salon.com/\"",
+  "rank": 357,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"dagondesign.com/\"",
+  "rank": 353,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 10",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"is.gd/\"",
+  "rank": 347,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"gizmodo.com/\"",
+  "rank": 359,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"unicef.org/\"",
+  "rank": 364,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"ucoz.com/\"",
+  "rank": 358,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"reference.com/\"",
+  "rank": 362,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 10"
+},{
+  "url": "\"artisteer.com/\"",
+  "rank": 366,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 8",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"theglobeandmail.com/\"",
+  "rank": 354,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 6"
+},{
+  "url": "\"sun.com/\"",
+  "rank": 363,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"devhub.com/\"",
+  "rank": 365,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"istockphoto.com/\"",
+  "rank": 368,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"answers.com/\"",
+  "rank": 369,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 6"
+},{
+  "url": "\"trellian.com/\"",
+  "rank": 370,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"intel.com/\"",
+  "rank": 374,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"smh.com.au/\"",
+  "rank": 361,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"psu.edu/\"",
+  "rank": 360,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"sciencedaily.com/\"",
+  "rank": 377,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"i2i.jp/\"",
+  "rank": 372,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"ask.com/\"",
+  "rank": 379,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"booking.com/\"",
+  "rank": 355,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"cocolog-nifty.com/\"",
+  "rank": 371,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"t-online.de/\"",
+  "rank": 373,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 6"
+},{
+  "url": "\"paginegialle.it/\"",
+  "rank": 378,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"springer.com/\"",
+  "rank": 380,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"timesonline.co.uk/\"",
+  "rank": 382,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 16",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"smugmug.com/\"",
+  "rank": 385,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"wufoo.com/\"",
+  "rank": 386,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"canalblog.com/\"",
+  "rank": 381,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"deliciousdays.com/\"",
+  "rank": 384,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"1und1.de/\"",
+  "rank": 375,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"washingtonpost.com/\"",
+  "rank": 90,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 12"
+},{
+  "url": "\"domainmarket.com/\"",
+  "rank": 389,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"cmu.edu/\"",
+  "rank": 388,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"twitpic.com/\"",
+  "rank": 391,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"google.ru/\"",
+  "rank": 395,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"naver.com/\"",
+  "rank": 394,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"ovh.net/\"",
+  "rank": 392,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 12",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"ebay.co.uk/\"",
+  "rank": 376,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"newyorker.com/\"",
+  "rank": 397,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"blogs.com/\"",
+  "rank": 398,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 12"
+},{
+  "url": "\"sciencedirect.com/\"",
+  "rank": 399,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"hhs.gov/\"",
+  "rank": 402,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 4"
+},{
+  "url": "\"hibu.com/\"",
+  "rank": 400,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"globo.com/\"",
+  "rank": 387,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"si.edu/\"",
+  "rank": 396,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"dot.gov/\"",
+  "rank": 404,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"hud.gov/\"",
+  "rank": 401,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 12"
+},{
+  "url": "\"google.com.hk/\"",
+  "rank": 406,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"nationalgeographic.com/\"",
+  "rank": 190,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 18",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"home.pl/\"",
+  "rank": 393,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"odnoklassniki.ru/\"",
+  "rank": 390,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"zimbio.com/\"",
+  "rank": 409,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"cnbc.com/\"",
+  "rank": 411,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"craigslist.org/\"",
+  "rank": 408,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 12"
+},{
+  "url": "\"symantec.com/\"",
+  "rank": 414,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"chronoengine.com/\"",
+  "rank": 410,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 18"
+},{
+  "url": "\"vistaprint.com/\"",
+  "rank": 413,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"360.cn/\"",
+  "rank": 416,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"uiuc.edu/\"",
+  "rank": 412,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"java.com/\"",
+  "rank": 420,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"mtv.com/\"",
+  "rank": 418,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"indiatimes.com/\"",
+  "rank": 417,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 18"
+},{
+  "url": "\"cisco.com/\"",
+  "rank": 421,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"prlog.org/\"",
+  "rank": 415,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 12"
+},{
+  "url": "\"japanpost.jp/\"",
+  "rank": 422,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"github.io/\"",
+  "rank": 424,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"4shared.com/\"",
+  "rank": 423,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 18"
+},{
+  "url": "\"jalbum.net/\"",
+  "rank": 407,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"studiopress.com/\"",
+  "rank": 426,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"mayoclinic.com/\"",
+  "rank": 425,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 12"
+},{
+  "url": "\"printfriendly.com/\"",
+  "rank": 429,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"mlb.com/\"",
+  "rank": 430,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"virginia.edu/\"",
+  "rank": 428,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 18"
+},{
+  "url": "\"dell.com/\"",
+  "rank": 433,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"simplemachines.org/\"",
+  "rank": 432,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"omniture.com/\"",
+  "rank": 431,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 12"
+},{
+  "url": "\"cyberchimps.com/\"",
+  "rank": 405,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"comcast.net/\"",
+  "rank": 437,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 12"
+},{
+  "url": "\"chron.com/\"",
+  "rank": 438,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"webeden.co.uk/\"",
+  "rank": 419,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"wp.com/\"",
+  "rank": 440,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"merriam-webster.com/\"",
+  "rank": 441,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"nba.com/\"",
+  "rank": 442,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"princeton.edu/\"",
+  "rank": 435,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"lulu.com/\"",
+  "rank": 444,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"shop-pro.jp/\"",
+  "rank": 443,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"buzzfeed.com/\"",
+  "rank": 447,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"pagesperso-orange.fr/\"",
+  "rank": 298,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 2",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"ehow.com/\"",
+  "rank": 301,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 1",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"furl.net/\"",
+  "rank": 445,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 0",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"indiegogo.com/\"",
+  "rank": 446,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"army.mil/\"",
+  "rank": 451,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"csmonitor.com/\"",
+  "rank": 452,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"delicious.com/\"",
+  "rank": 30,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 19",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"tamu.edu/\"",
+  "rank": 454,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"fotki.com/\"",
+  "rank": 436,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"tuttocitta.it/\"",
+  "rank": 448,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"bravesites.com/\"",
+  "rank": 453,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"yellowpages.com/\"",
+  "rank": 457,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"icio.us/\"",
+  "rank": 41,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 5",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"tiny.cc/\"",
+  "rank": 459,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"toplist.cz/\"",
+  "rank": 456,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"multiply.com/\"",
+  "rank": 463,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"oakley.com/\"",
+  "rank": 462,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"ox.ac.uk/\"",
+  "rank": 449,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"va.gov/\"",
+  "rank": 458,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"fema.gov/\"",
+  "rank": 467,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"blogtalkradio.com/\"",
+  "rank": 468,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"hostgator.com/\"",
+  "rank": 465,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"nymag.com/\"",
+  "rank": 466,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"rediff.com/\"",
+  "rank": 455,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 19"
+},{
+  "url": "\"tmall.com/\"",
+  "rank": 464,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"elpais.com/\"",
+  "rank": 461,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 5"
+},{
+  "url": "\"china.com.cn/\"",
+  "rank": 469,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 13",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"unblog.fr/\"",
+  "rank": 470,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 0",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"fastcompany.com/\"",
+  "rank": 471,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"aboutads.info/\"",
+  "rank": 475,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"ucsd.edu/\"",
+  "rank": 476,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"seattletimes.com/\"",
+  "rank": 478,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"earthlink.net/\"",
+  "rank": 472,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 19"
+},{
+  "url": "\"sbwire.com/\"",
+  "rank": 481,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 19",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"msu.edu/\"",
+  "rank": 474,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 5"
+},{
+  "url": "\"admin.ch/\"",
+  "rank": 427,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"acquirethisname.com/\"",
+  "rank": 483,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 5",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"sogou.com/\"",
+  "rank": 477,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"mapy.cz/\"",
+  "rank": 450,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 1"
+},{
+  "url": "\"pen.io/\"",
+  "rank": 486,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 2",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"vinaora.com/\"",
+  "rank": 473,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"shutterfly.com/\"",
+  "rank": 484,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"dyndns.org/\"",
+  "rank": 479,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 0",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"walmart.com/\"",
+  "rank": 485,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 5"
+},{
+  "url": "\"123-reg.co.uk/\"",
+  "rank": 480,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"arizona.edu/\"",
+  "rank": 487,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 1"
+},{
+  "url": "\"php.net/\"",
+  "rank": 118,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 9",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"woothemes.com/\"",
+  "rank": 488,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"scientificamerican.com/\"",
+  "rank": 489,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"themeforest.net/\"",
+  "rank": 490,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"unc.edu/\"",
+  "rank": 493,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 13"
+},{
+  "url": "\"spotify.com/\"",
+  "rank": 491,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"ihg.com/\"",
+  "rank": 499,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 13",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"pcworld.com/\"",
+  "rank": 500,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "true",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 0"
+},{
+  "url": "\"bloglovin.com/\"",
+  "rank": 497,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 8"
+},{
+  "url": "\"cam.ac.uk/\"",
+  "rank": 492,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 5"
+},{
+  "url": "\"illinois.edu/\"",
+  "rank": 496,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 2"
+},{
+  "url": "\"arstechnica.com/\"",
+  "rank": 494,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "true",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 1"
+},{
+  "url": "\"nsw.gov.au/\"",
+  "rank": 498,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 3"
+},{
+  "url": "\"hao123.com/\"",
+  "rank": 495,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 9"
+},{
+  "url": "\"comsenz.com/\"",
+  "rank": 174,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 11",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"nyu.edu/\"",
+  "rank": 439,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "true",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 12"
+},{
+  "url": "\"discuz.net/\"",
+  "rank": 178,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 14",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"geocities.jp/\"",
+  "rank": 184,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 17",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"mac.com/\"",
+  "rank": 258,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 15",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"accuweather.com/\"",
+  "rank": 434,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 18",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"sitemeter.com/\"",
+  "rank": 280,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 7",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"netlog.com/\"",
+  "rank": 460,
+  "sessions": 1,
+  "searchTermExists": {
+    "security": "false",
+    "web": "false",
+    "mathad": "false",
+    "was": "false",
+    "anirudh": "false"
+  },
+  "executedBy": "Thread: 16"
+},{
+  "url": "\"unesco.org/\"",
+  "rank": 367,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 10",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"de.vu/\"",
+  "rank": 383,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 6",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"dmoz.org/\"",
+  "rank": 403,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 4",
+  "msg": "Error accessing the Web Page"
+},{
+  "url": "\"tinypic.com/\"",
+  "rank": 482,
+  "sessions": 1,
+  "searchTermExists": {},
+  "executedBy": "Thread: 19",
+  "msg": "Error accessing the Web Page"
+},
