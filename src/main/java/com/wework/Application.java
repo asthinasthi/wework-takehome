@@ -18,7 +18,7 @@ public class Application {
     private static URL INPUT_URL =  null;
     private static String[] searchTerms = new String[]{"web", "security", "was", "anirudh", "mathad"};
     private static final Integer MAX_SESSIONS = 1; // re attempts
-    private static final Integer MAX_THREADS = 50;
+    private static final Integer MAX_THREADS = 20;
     private static Logger logger = Logger.getLogger(Application.class);
 
     public static void main(String[] args){
